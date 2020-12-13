@@ -1,0 +1,26 @@
+###################################
+#      HighlandsCore Plugin       #
+#        Created by Scrpt         #
+#       All Rights Reserved       #
+###################################
+
+###################################
+#           Plugin Config         #
+###################################
+
+console-log: true
+file-log: true
+
+
+###################################
+#           Mysql Config          #
+###################################
+
+# use MySQL. If set to False the plugin will alternatively use SQLite
+use-mysql: false
+
+host: "localhost"
+port: 3306
+database: "database"
+username: "minecraft"
+password: "password"

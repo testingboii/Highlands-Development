@@ -1,0 +1,8 @@
+name: HighlandsCore
+version: ${highlands.version}
+main: highlands.highlandscore.HighlandsCore
+api-version: 1.16
+commands:
+  tradeup:
+    description: Used to open Item Upgrade GUI
+    usage: /tradeup
