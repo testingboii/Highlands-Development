@@ -1,3 +1,5 @@
+![CI](https://github.com/HighlandsMMO/Highlands-Development/workflows/CI/badge.svg)
+
 # Highlands Development - WIP
 
 ### Run on the fly
