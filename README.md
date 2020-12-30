@@ -2,7 +2,7 @@
 
 ### Run on the fly
 
-Run `./gradlew run`
+Run `./gradlew run` on linux and `gradlew run` on windows.
 
 ### Build and Run
 
